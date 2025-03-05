@@ -21,6 +21,7 @@ Step3 - From a browser open the ip
 
 ![2025-03-05_230122](https://github.com/user-attachments/assets/270b670b-28c0-4cba-a75c-47aef285ad99)
 
+Select 800x600 if the image is too small on your monitor
 Click START and Click Vertical Flip
 
 Follow me on Youtube: https://www.youtube.com/@pixelssquad

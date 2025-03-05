@@ -6,7 +6,8 @@ a fantastic kit with great opportunity for test skills in programming arduino an
 
 
 The program is derived and adapted from the example present in the Arduino IDE relating to the esp cam.
-Once loaded it will allow you to view the video stream from a web browser
+Once loaded it will allow you to view the video stream from a web browser.
+It is intended to understand and be able to study the official ESP Camera Library
 
 STEP1 - Download and extract the archive, in Arduino IDE open Adeept_Car_CameraWebServer, at line 18 and 19 enter your WiFi credentials
 

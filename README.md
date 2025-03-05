@@ -26,3 +26,5 @@ Select 800x600 if the image is too small on your monitor
 Click START and Click Vertical Flip
 
 Follow me on Youtube: https://www.youtube.com/@pixelssquad
+
+https://youtu.be/JUbs5R_BWtI

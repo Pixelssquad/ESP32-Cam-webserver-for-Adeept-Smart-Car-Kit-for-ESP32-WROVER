@@ -15,8 +15,8 @@ SSD1306Wire OLED_display(0x3c, SDA, SCL);
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "your ssid";
-const char *password = "your password";
+const char *ssid = "ssid here";
+const char *password = "password here";
 
 void startCameraServer();
 void setupLedFlash(int pin);
